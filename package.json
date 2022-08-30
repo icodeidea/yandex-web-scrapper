@@ -1,0 +1,24 @@
+{
+  "name": "yandex-web-scrapper",
+  "version": "1.0.0",
+  "description": "scrap data from yandex map",
+  "main": "index.php",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icodeidea/yandex-web-scrapper.git"
+  },
+  "keywords": [
+    "yandex",
+    "map",
+    "data-scrapper"
+  ],
+  "author": "Longinus King, Davide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icodeidea/yandex-web-scrapper/issues"
+  },
+  "homepage": "https://github.com/icodeidea/yandex-web-scrapper#readme"
+}
